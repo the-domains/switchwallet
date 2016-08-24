@@ -1,0 +1,14 @@
+layout_spectrum: 0.6658662732224911
+typography_spectrum: 0.6173480520956218
+color:
+  brandStrength: 0.8249786156229675
+  lightness: 0.31457546283490956
+  saturation: 0.017739927163347602
+  rhythmicContrast: 0.7713066616561264
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: Switchwallet
